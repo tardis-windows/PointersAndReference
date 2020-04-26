@@ -16,9 +16,8 @@ int main()
     srand(time(NULL));
 
     Bag studentBag;
-    int numSt = 100;
+    int numSt = 25;
     int i = 0;
-
 
     Student s1;
     s1.SetName("Fox", "Moulder"); 
